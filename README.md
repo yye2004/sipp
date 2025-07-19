@@ -9,13 +9,13 @@ The Student Assessment Management System (SiPP - Sistem Pengurusan Penilaian) is
 
 ## 📌 Problem Statement
 
-Currently, student assessments at SMJK Jit Sin are recorded manually in physical books. This method is prone to human error, time-consuming, and lacks systematic data organization. SiPP addresses this by introducing a database-driven system to ensure accurate and efficient performance tracking.
+As 2021, student assessments at SMJK Jit Sin are recorded manually in physical books. This method is prone to human error, time-consuming, and lacks systematic data organization. SiPP addresses this by introducing a database-driven system to ensure accurate and efficient performance tracking.
 
 ---
 
 ## 🎯 Objectives
 
-- ✅ Manage and store collections of quiz/exam questions.
+- ✅ Manage and store collections of quiz questions.
 - ✅ Monitor student performance by subject or topic.
 - ✅ Provide a user-friendly interface for teachers and students.
 - ✅ Enable faster analysis and reporting of student results.
